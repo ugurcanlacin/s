@@ -1,4 +1,4 @@
-# s - fast command search and execution
+# s - fast command execution
 
 Tired of typing `history | grep -i "something"` and then copying and pasting commands? This tiny shell function is here to help! Just type `s docker` or `s git push` and it will show you all matching commands from your history. Pick a number, press enter, and boom - your command is running. No more copy-paste hassle!
 
