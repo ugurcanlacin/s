@@ -1,6 +1,6 @@
 # Command History Search Function (s)
 
-A simple yet powerful shell function to search and execute commands from your shell history. This function provides an interactive way to search through your command history, displaying unique matches and allowing you to execute them easily.
+Tired of typing `history | grep -i "something"` and then copying and pasting commands? This tiny shell function is here to help! Just type `s docker` or `s git push` and it will show you all matching commands from your history. Pick a number, press enter, and boom - your command is running. No more copy-paste hassle!
 
 ## Features
 
